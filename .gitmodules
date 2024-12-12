@@ -1,0 +1,6 @@
+[submodule "micropython"]
+	path = micropython
+	url = git@github.com:Y-Theta/Esp32-micropython.git
+[submodule "nanoframework"]
+	path = nanoframework
+	url = git@github.com:Y-Theta/Esp32-nanoframework.git
