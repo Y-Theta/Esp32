@@ -4,3 +4,6 @@
 [submodule "nanoframework"]
 	path = nanoframework
 	url = git@github.com:Y-Theta/Esp32-nanoframework.git
+[submodule "common"]
+	path = common
+	url = git@github.com:Y-Theta/Esp32-common.git
